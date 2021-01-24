@@ -1,4 +1,4 @@
-import "./index.css";
+import "index.css";
 
 const toDoForm = document.querySelector(".js-toDoForm"),
   toDoInput = toDoForm.querySelector("input"),
