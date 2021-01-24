@@ -1,4 +1,4 @@
-import "./index.css";
+import "index.css";
 
 const clockContainer = document.querySelector(".js-clock"),
   clockTitle = clockContainer.querySelector("h1");
