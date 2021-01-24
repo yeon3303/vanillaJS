@@ -1,4 +1,3 @@
-import "index.css";
 
 const weather = document.querySelector(".js-weather");
 
